@@ -1,0 +1,1 @@
+C:\MyPrograms\Microsoft Visual Studio 12.0\MyProjects\AspNetProjects\AspNetValidationControls\AspNetDataBinding\AspNetDataBinding\obj\Debug\AspNetDataBinding.csprojResolveAssemblyReference.cache
